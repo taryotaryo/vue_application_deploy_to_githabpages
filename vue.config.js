@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: './',
+    publicPath: '/vue_application_deploy_to_githabpages',
     outputDir: 'docs'
 }
